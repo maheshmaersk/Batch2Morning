@@ -18,8 +18,8 @@ public class FindEvenOrOdd {
             String sdd = scan.next();
             if (sdd.equalsIgnoreCase("y")) {
                 System.out.println("Will Continue");
-            }else if (sdd.equalsIgnoreCase("n")) {
-               isEnabled= false;
+            } else if (sdd.equalsIgnoreCase("n")) {
+                isEnabled = false;
                 System.out.println("Exiting");
             } else {
                 System.out.println("Retry");

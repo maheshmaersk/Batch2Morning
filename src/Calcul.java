@@ -8,7 +8,6 @@ public class Calcul {
 
         String asdsa = dsdfs.next();
 
-
         if(asdsa.equalsIgnoreCase("A")){
             System.out.println("Selected is Addition");
         }else if(asdsa.equalsIgnoreCase("d")){
