@@ -1,3 +1,5 @@
+import modifiers.SamTest;
+
 public class ConstExam {
     static int abc = 223;
     public int fdfs = 223;
